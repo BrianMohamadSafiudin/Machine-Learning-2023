@@ -6,7 +6,7 @@
 
 |Weeks           |PROJECTS                         |LINKS                        |
 |----------------|---------------------------------|-----------------------------|                        
-|Week 02         |`'Encoding dan Standarisasi'`    |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/tree/main/Pertemuan2                         
-|Week 03         |`'Regresi Linear dan SVR'`       |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/tree/main/Pertemuan3                          
+|Week 02         |`'Encoding dan Standarisasi'`    |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/02_BrianMohamadSafiudin_Data.ipynb                        
+|Week 03         |`'Regresi Linear dan SVR'`       |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/03_BrianMohamadSafiudin_Data.ipynb                       
 |Week 04         |                                 |                             
 |Week 05         |                                 |                             
