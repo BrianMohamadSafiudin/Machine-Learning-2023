@@ -16,3 +16,4 @@
 |Week 09         |`'Perceptron dan ANN'`           |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/09_BrianMohamadSafiudin_PerceptronDanANN.ipynb
 |Week 10         |`'Recurrent Neural Network'`     |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/10_BrianMohamadSafiudin_RNN.ipynb
 |Week 11         |`'Convolutional Neural Network'` |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/11_BrianMohamadSafiudin_CNN.ipynb
+|Week 12         |`'Optical Character Recognition'`|https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/12_BrianMohamadSafiudin_OCR.ipynb
