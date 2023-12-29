@@ -18,3 +18,4 @@
 |Week 11         |`'Convolutional Neural Network'` |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/11_BrianMohamadSafiudin_CNN.ipynb
 |Week 12         |`'Optical Character Recognition'`|https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/12_BrianMohamadSafiudin_OCR.ipynb
 |Kuis 2          |`'OCR CNN'`                      |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/Kuis2/kuis2brian.ipynb 
+|UAS             |`'OCR KTP dengan model CNN'`     |https://github.com/BrianMohamadSafiudin/Machine-Learning-2023/blob/main/UAS/UASMachineLearning_BrianFebryanFafan.ipynb
